@@ -54,7 +54,7 @@ https://ric.cps.sp.gov.br/handle/123456789/28340
 
 ## 🧩 Screenshots
 - Login e Cadastro
-<img width="284" height="573" alt="0" src="https://github.com/user-attachments/assets/a91666b8-d78c-4af3-a74a-57626994e6dc" />
+<img width="280" height="573" alt="0" src="https://github.com/user-attachments/assets/a91666b8-d78c-4af3-a74a-57626994e6dc" />
 <img width="280" height="573" alt="1" src="https://github.com/user-attachments/assets/3079381e-c22a-43fb-a883-86399c830717" />
 
 - Quiz
