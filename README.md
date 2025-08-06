@@ -20,7 +20,7 @@ O **AstroGuide** é um aplicativo educativo e gamificado desenvolvido para crian
 
 O projeto nasceu da necessidade de aproximar os alunos da Ciência desde os primeiros anos escolares, usando metodologias ativas e recursos digitais que estimulem a curiosidade, a autonomia e o aprendizado por meio da diversão.
 
-Este é o Trabalho de Conclusão de Curso apresentado à **Etec Cotia**, do **Centro Estadual de Educação Tecnológica Paula Souza**, como requisito para a obtenção do diploma de **Técnico de Nível Médio em Desenvolvimento de Sistemas**, sob a orientação do **Professor Especialista Samuel Henrique da Rocha**.
+Este é o Trabalho de Conclusão de Curso apresentado à **Etec Cotia**, do **Centro Estadual de Educação Tecnológica Paula Souza**, como requisito para a obtenção do diploma de **Técnico de Nível Médio em Desenvolvimento de Sistemas**, sob a orientação do **Professor Samuel Henrique da Rocha** e o apoio da **Professora Fernanda Pereira Gomes**.
 
 ## 🎯 Funcionalidades
 
@@ -39,7 +39,7 @@ Este é o Trabalho de Conclusão de Curso apresentado à **Etec Cotia**, do **Ce
 
 <img width="1280" height="720" alt="arquitetura" src="https://github.com/user-attachments/assets/1c721350-c9ad-4f8a-aee5-eeed88490227" />
  
-## 📃 Documentação Completa: 
+## 📃 Documentação Completa
 https://ric.cps.sp.gov.br/handle/123456789/28340
 
  ## 👥 Desenvolvedores
@@ -48,9 +48,16 @@ https://ric.cps.sp.gov.br/handle/123456789/28340
 
 👤 Heloisa Feitosa Oliveira: https://www.linkedin.com/in/heloisa-oliveira-372a06114/
 
+👤 Maysa Alexandre Nazario: https://github.com/maysanazario
+
 👤 Laura Guilherme dos Santos
 
 👤 Renan Yamamoto Faria do Carmo: https://www.linkedin.com/in/renanyfc/
+
+## 🏆 Premiações
+🥇1º Lugar no Empreende SIM! (USP)
+
+🥇Premiado em Inovação na Educação, na FETEPS (Feira Tecnológica do Centro Paula Souza)
 
 ## 🧩 Screenshots
 - Login e Cadastro
